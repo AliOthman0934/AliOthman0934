@@ -43,6 +43,9 @@
 
 <br/>
 <hr/>
+<div>
+    <img src= "https://github-readme-stats.vercel.app/api?username=AliOthman0934"/>
+</div>
 
 
 
