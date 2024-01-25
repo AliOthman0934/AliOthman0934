@@ -45,9 +45,15 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-    <img width=100% src= "https://github-readme-stats.vercel.app/api?username=AliOthman0934&show_icons=true&theme=radical"/>
+    <img width=50%  src= "https://github-readme-stats.vercel.app/api?username=AliOthman0934&show_icons=true&theme=radical"/>
+    
 </div>
+<br>
 
+<h2 align="center">⚡ Most Used Languages ⚡</h2>
+<div align = "center">
+    <img width=50% src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AliOthman0934&layout=compact"/>
+</div>
 
 
 
