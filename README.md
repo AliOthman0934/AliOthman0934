@@ -1,5 +1,3 @@
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AliOthman0934" />
 
 <h1 align="center">
