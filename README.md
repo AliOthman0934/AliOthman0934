@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a full stuck stack project**
+ 🔭 I’m currently working on home Swap **a full stuck stack project**
  
  🌱 I’m currently learning **Node.js, express, mongodb**
 
