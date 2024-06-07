@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AliOthman0934"/>
 <br/>
 
-![wallpapersden com_night-coding-landscape-sunset_10114x5562](https://github.com/AliOthman0934/AliOthman0934/assets/147824401/92d6fc3b-2860-43e4-97a7-e93530f60d44)
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Othman!;"/>
