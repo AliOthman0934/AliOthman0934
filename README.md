@@ -16,7 +16,7 @@
  
  🔭 I’m currently working green   **a full stuck stack project**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Typescript**
 
 💬 Ask me about **HTML, CSS, JS... or anything [here](https://github.com/AliOthman0934)**
 
