@@ -8,17 +8,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Othman!;"/>
 </h1>
 
-<h3 align="center">A passionate web developer from syria </h3>
+<h3 align="center">A passionate web developer </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working green   **a full stuck stack project**
- 
- 🌱 I’m currently learning **Typescript**
-
-💬 Ask me about **HTML, CSS, JS... or anything [here](https://github.com/AliOthman0934)**
+As an enthusiastic and creative full-stack web developer, I bring a strong foundation in both front-end and back-end development, along with a keen eye for design which I developed during my studies in Architecture. I am known for my positive attitude, quick learning, resourcefulness, and ability to thrive in collaborative environments. I look forward to further developing my skills in a dynamic professional setting and contributing to innovative projects
 
 
 
